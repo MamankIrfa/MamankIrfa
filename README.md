@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning React, Redux
 - 📫 How to reach me
   - Email (irsyad.f2004@gmail.com)
-  - LinkedIn (<a href="www.linkedin.com/in/irsyad-fakhruddin-b41034257" target="_blank">Irsyad Fakhruddin</a>)
+  - LinkedIn (<a href="https://www.linkedin.com/in/irsyad-fakhruddin-b41034257/" target="_blank">Irsyad Fakhruddin</a>)
   - Instagram (<a href="https://www.instagram.com/_syadfn01/" target="_blank">_syadfn01</a>)
 - 📝 Portfolio (on progress..)
 
