@@ -1,6 +1,6 @@
 <h1>Hello GitHub <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?raw=true" width="30"></h1>
 
-<p>My name is <b><i>Irsyad Fakhruddin</i></b>, I'm a tech anthusiast, I live in Indonesia, I try to be a good frontend developer especially in website development</p>
+<p>My name is <b><i>Irsyad Fakhruddin</i></b>, I'm a tech anthusiast, I live in Indonesia, I'm trying to be a good frontend developer especially in website development</p>
 
 - 🌱 I’m currently learning React, Redux
 - 📫 How to reach me
