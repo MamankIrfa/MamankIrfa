@@ -3,17 +3,13 @@
 <p>My name is <b><i>Irsyad Fakhruddin</i></b>, I'm a tech anthusiast, I live in Indonesia, I'll be a profesional frontend developer soon. Website & Mobile i can handle it</p>
 
 - 🌱 I’m currently learning Nuxt, Flutter
-- 📫 How to reach me
-  - Email (irsyad.f2004@gmail.com)
-  - LinkedIn (<a href="https://www.linkedin.com/in/irsyad-fakhruddin-b41034257/" target="_blank">Irsyad Fakhruddin</a>)
-  - Instagram (<a href="https://www.instagram.com/_syadfn01/" target="_blank">_syadfn01</a>)
 - 📝 Portfolio (on progress..)
 
 # 📫 Reach Me:
 <div align="center">
-  <a href="irsyad.f2004@gmail.com" target='_blank'><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/irsyad-fakhruddin-b41034257/" target='_blank'><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/_syadfn01/" target='_blank'><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+  <a href="mailto:irsyad.f2004@gmail.com?subject = Feedback&body = Message" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/irsyad-fakhruddin-b41034257/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/_syadfn01/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </div>
   
 # 💻 Tech Stack:
