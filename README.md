@@ -1,9 +1,11 @@
 <h1>Hello GitHub <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?raw=true" width="30"></h1>
 
-<p>My name is <b><i>Irsyad Fakhruddin</i></b>, I'm a tech anthusiast, I live in Indonesia, I'll be a profesional frontend developer soon. Website & Mobile i can handle it</p>
+<p>My name is <b><i>Irsyad Fakhruddin</i></b>, I'm a tech anthusiast, I live in Indonesia, I'll be a profesional frontend developer soon. Website & Mobile i can handle it.</p>
 
 - 🌱 I’m currently learning Nuxt, Flutter
 - 📝 Portfolio (on progress..)
+
+<h2 align="center"> <i>"My Biggest Enemy Is Myself & Lazy"</i></h2>
 
 # 📫 Reach Me:
 <div align="center">
